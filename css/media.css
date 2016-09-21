@@ -1,0 +1,120 @@
+@media screen and (max-width: 1040px){
+	#headder{
+		height: 500px;
+	}
+	#log{
+		width: 100px;
+		height:auto;
+	}
+
+	#menu>a{
+		font-size: 17px;
+	}
+	h1.Ev-day{
+		font-size: 25px;
+		margin-bottom:50px; 
+	}
+
+	#phone {
+		padding-top: 50px;
+		margin-left: 280px;
+		margin-top: 300px;
+		font-size: 20px;
+	}
+
+	.left-btn{
+		height: 70px;
+		width: 230px; 
+	}
+
+	#reverse{
+		font-size: 16px;
+		padding:0px; 
+	}
+
+	#f-bt-ev {
+		margin-top:20px; 
+		margin-left:280px; 
+		width: 150px;
+		border-radius: 20px;
+		font-size: 20px;
+
+
+	}
+
+	.pics{
+		width: 100%;
+		text-align:center;;
+
+	}
+	.pics-1{
+		text-align: center;
+		width: 100%
+	}
+	.iwant{
+		text-align: center;
+		height:200px;
+		width: 100%;
+		background: url(../img/i-want.png) no-repeat;
+	}
+
+	.money>p{
+		font-size: 68px;
+
+	}
+
+	.money>p>span{
+		font-size: 34px;
+
+	}
+
+	.first>h2 {
+		margin-left:5px; 
+		font-size: 24px;
+	}
+	.ph-click{
+		width: 300px;
+		height: auto;
+		margin-left: 25%;
+	}
+
+
+	section#about-mach {
+		min-height: 450px;
+		width: 100%;
+		background: url(../img/part.png) repeat-x;
+		background-size: contain;
+	}
+
+	.Ev-day-2{
+		font-size: 34px;
+
+	}
+	.text-blocks {
+		font-family: Lobster;
+		color: #5b5a5f;
+		font-size: 20px;
+	}
+
+	.center-media {
+		text-align: center;
+		margin-left: 80%;
+	}
+
+	.arrows-none {
+		display: none;
+	}
+	
+
+	
+	section#our-contacts {
+		text-align: center;
+	}
+
+}
+
+
+
+
+
+

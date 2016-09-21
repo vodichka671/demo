@@ -1,0 +1,654 @@
+
+#phone{
+	text-decoration: none;
+	color: #5b5a5f;
+	font-family: Lobster;
+	font-size: 24px;
+
+}
+.phone-1 {
+	padding-top: 3%;
+}
+
+#f-bt-ev {
+	margin-top: 5%;
+	display: block;
+	background-color:#87c4cd;
+	text-decoration: none;
+	font-family: Lobster;
+	color: #fff;
+	font-size: 25px;
+	padding: 3px 10px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+
+
+@font-face {
+	font-family: Lobster;
+	src : url(../fonts/Lobster.ttf);
+}
+
+section#header {
+	background: url(../img/header-bg.jpg) no-repeat ;
+	background-size: contain;
+	height: 200px;
+	background-size:cover;
+	background-size: 100%;
+	width: 100%;
+	margin-bottom: 5%;
+
+}
+#menu {
+	padding:80px;
+}
+a{
+	text-decoration: none;
+}
+
+#menu>a {
+	text-decoration: none;
+	padding: 1% 1%;
+	border : solid 3px #87c4cd ;
+	border-radius: 20px;
+	margin-right: 10px;
+	color: #5b5a5f;
+	font-family: Lobster;
+	font-size: 24px;
+}
+
+#menu>a:hover{
+	background-color: #87c4cd;
+	color: #fff;
+}
+
+section#health{
+	background: url(../img/health-bg.gif) no-repeat center center;
+	background-size: contain;
+	height: auto;
+	width: 100%;
+}
+
+
+.Ev-day {
+	font-size: 54px;
+	font-family: Lobster;
+	margin-bottom: 5%;
+	color: #5b5a5f;
+}
+
+.vertical-text {
+	transform: rotate(-90deg);
+	transform-origin: left top 0;
+}
+
+.left-btn {
+	margin-top: 10%;		
+	float: left;
+	position: fixed;
+	background-color: #87c4cd;
+	border-radius: 35px;
+	height: 100px;
+	width: 400px; 
+	z-index: 5;
+	border:solid 4px #317591;
+
+}
+#reverse {
+	display: block;
+	text-decoration: none;
+	margin-left: 65px;
+	margin-right: 50px;
+	margin-top: 25px;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Lobster;
+	color: #5b5a5f;
+}
+
+.i-want {
+	margin-top: 50%;
+	height:270px;
+	width: 100%;
+	border-radius: 20px;
+	background: url(../img/i-want.png) no-repeat;
+
+}
+
+#subm {
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color:#5b5a5f;
+	border-radius: 15px;
+	font-family: Lobster;
+	color: #fff;
+	font-size: 30px;
+	border-color: #5b5a5f;
+}
+
+.info {
+	clear: both;
+	margin-right: 10px;
+	width: 250px;
+	padding-top: 5px;
+	padding-left: 80px;
+	padding-right: 0px;
+	border-radius: 15px;
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 30px;
+}
+
+.first {
+
+	margin-bottom: 20px;
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 78px;
+}
+.first>h2 {
+	margin-left:5px; 
+	font-size: 44px;
+}
+
+.money>p {
+	margin-top:30px; 
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 78px;
+}
+
+.money>p>span {
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 44px;
+}
+
+
+
+
+section#about {
+	height: auto;
+}
+
+
+.first-img {
+	width: 370px;
+	height: auto;
+	position: absolute;
+	right: 140px;
+}
+
+.both {
+	left:70px;
+	position: relative;;
+}
+
+.qrt {
+	font-family: Lobster;
+	color: #87c4cd;
+	font-size: 25px;
+}
+.qrt-2 {
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 20px;
+}
+
+section#how_we_work {
+	height: auto;
+	margin-bottom: 5%;
+}
+
+.ph-click {
+	margin-right: 50px; 
+}
+
+section#about-mach {
+	min-height: 450px;
+	width: 100%;
+	background: url(../img/part.png) repeat-x;
+}
+
+.Ev-day-2 {
+	font-size: 54px;
+	font-family: Lobster;
+	margin-bottom: 5%;
+	color: #ffffff;
+}
+
+.text-blocks {
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 30px;
+}
+
+.val {
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 52px;
+}
+
+
+section#choice {
+	height: auto;
+	background-color: #edf7f9;
+
+}
+.deep-blue {
+	background: url(../img/main-bg.png);
+}
+
+.ident-block {
+	background-color: #87c4cd;
+	border-radius: 30px;
+	width: 265;
+	height: 510px;
+
+
+}
+
+
+.style-h{
+	padding: 30px 20px;
+	border-radius: 30px;
+	background-color: #5b5a5f;
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 40px;
+
+}
+
+.style-hr {
+	padding: 10px 10px;
+	border-radius: 30px;
+	background-color: #5b5a5f;
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 40px;
+}
+
+.f-st {
+	margin-top:100px;
+}
+
+.right-choice {
+	font-family: Lobster;
+	color: #87c4cd;
+	font-size: 29px;
+}
+
+.s-nd {
+	box-shadow: 0 0 0 6px #fff, 0 0 0 12px #679dcb;
+
+}
+
+.shrift {
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 17px;
+}
+
+.calc {
+	width: 110px;
+	height: 60px;
+	background-color: #fff;
+	border-radius: 20px;
+	font-family: Lobster;
+	padding-left: 25px;
+	font-size: 18px;
+}
+
+.posit-ion {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 30px;
+}
+#more-bott{
+	margin-top: 90px;
+}
+
+.span-info {
+	float: right;
+	width: 110px;
+	height: 60px;
+	background-color: #fff;
+	border-radius: 20px;
+	font-family: Lobster;
+	padding-left: 25px;
+	font-size: 18px;
+	padding: 10px 15px;
+}
+
+
+.counter {
+	margin-top: 10%;
+	width: 100%;
+	min-height: 120px;
+	border-radius: 30px;
+	background-color: #87c4cd;
+	margin-bottom: 10%;
+}
+
+.par {
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 23px;
+}
+
+
+#btn-menu {
+	border-radius: 20px;
+	height: 20px;
+	width: 100px;
+	padding: 15px 30px;
+	background-color: #5b5a5f;
+	font-family: Lobster;
+	color: #ffffff;
+	font-size: 26px;
+
+}
+
+.itog {
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 34px;
+}
+
+#r-btn {
+	text-align: center;
+	display: block;
+	margin-top: 10%;
+	border-radius: 20px;
+	padding: 10px 10px;
+	font-family: Lobster;
+	background-color: #ffffff;
+	color: #5b5a5f;
+	font-size: 26px;
+}
+
+#l-btn {
+	text-decoration: none;
+	display: block;
+	margin-top: 10%;
+	border-radius: 20px;
+	padding: 10px 10px;
+	font-family: Lobster;
+	background-color: #5b5a5f;
+	color:#ffffff ;
+	font-size: 26px;
+}
+#spend-money {
+	display: block;
+	margin-top:40px;
+	font-size: 38px;
+	font-family: Lobster;
+	color:#ffffff ;
+}
+
+
+
+section#advances {
+	margin-top: 10%;
+}
+
+.ev-pic {
+	margin: 2px;
+}
+
+.spec {
+	margin-right: 13px;
+}
+
+.ev-pic:hover{
+	width:470px;
+	height: auto;
+	z-index: 5;
+	position: relative;
+
+}
+
+.pics {
+	width: 38%;
+	min-height: 650px;
+	float: left;
+}
+
+.pics-1 {
+	width: 62%;
+	min-height: 650px;
+	float: left;
+}
+
+.px {
+	margin: 2px;
+	-moz-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+}
+
+.px:hover {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	opacity: 0,8;
+}
+
+
+
+
+section#slider {
+	height: 720px;
+	width: 100%;
+	background: url(../img/bg-slick.png) repeat-x;
+}
+
+.fotorama {
+	margin-left: 30%;
+}
+
+
+
+.names-glory {
+	font-family: Lobster;
+	color:#5b5a5f ;
+	font-size: 21px;
+	text-align: center;
+}
+
+.names-glory:after {
+	content: url(../img/ВК.png);
+	margin-left: 10px;
+}
+
+.comment {
+	text-align: center;
+	background-color: #fff;
+	border-radius: 20px;
+	font-family: Lobster;
+	color:#5b5a5f ;
+	font-size: 17px;
+	width: auto;
+	height: 140px;
+
+}
+
+#adress {
+	font-family: Lobster;
+	color:#5b5a5f ;
+	font-size: 24px;
+
+}
+
+.common {
+	font-family: Lobster;
+	color:#5b5a5f ;
+	font-size: 20px;
+
+}
+
+
+#label-r {
+	background: url(../img/bg-footer.jpg) no-repeat;
+	border-radius: 3px;
+	min-height: 200px;
+	width:50%;
+}
+
+.final {
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 35px;
+
+}
+
+
+#quest {
+	margin-top: 50px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color:#5b5a5f;
+	border-radius: 15px;
+	font-family: Lobster;
+	color: #fff;
+	font-size: 30px;
+	border-color: #5b5a5f;
+
+}
+
+
+
+.pre-footer {
+	margin-top: 3%
+}
+
+
+
+.refer {
+	margin-top: 100px;
+	min-height: 200px;
+	width: 450px;
+	margin-left: 50%;
+}
+
+#friends{
+	float: left;
+	font-family: Lobster;
+	color: #5b5a5f;
+	font-size: 30px;
+
+
+}
+
+/*POP UP*/
+
+#modal_form {
+	width: 600px; 
+	height: 600px; /* Рaзмеры дoлжны быть фиксирoвaны */
+	border-radius: 100%;
+	border: 3px #000 solid;
+	background: #fff;
+	position: fixed; /* чтoбы oкнo былo в видимoй зoне в любoм месте */
+	top: 10%; /* oтступaем сверху 45%, oстaльные 5% пoдвинет скрипт */
+	left: 40%; /* пoлoвинa экрaнa слевa */
+	margin-top: -300px;
+	margin-left: -150px; /* тут вся мaгия центрoвки css, oтступaем влевo и вверх минус пoлoвину ширины и высoты сooтветственнo =) */
+display: none; /* в oбычнoм сoстoянии oкнa не дoлжнo быть */
+opacity: 0; /* пoлнoстью прoзрaчнo для aнимирoвaния */
+z-index: 5; /* oкнo дoлжнo быть нaибoлее бoльшем слoе */
+padding: 20px 10px;
+
+background: url(../img/i-want.png) repeat-y;
+}
+/* Кнoпкa зaкрыть для тех ктo в тaнке) */
+#modal_form #modal_close {
+	width: 21px;
+	height: 21px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+	display: block;
+}
+/* Пoдлoжкa */
+#overlay {
+	z-index:3; /* пoдлoжкa дoлжнa быть выше слoев элементoв сaйтa, нo ниже слoя мoдaльнoгo oкнa */
+	position:fixed; /* всегдa перекрывaет весь сaйт */
+	background-color:#000; /* чернaя */
+	opacity:0.8; /* нo немнoгo прoзрaчнa */
+	-moz-opacity:0.8; /* фикс прозрачности для старых браузеров */
+	filter:alpha(opacity=80);
+	width:100%; 
+	height:100%; /* рaзмерoм вo весь экрaн */
+	top:0; /* сверху и слевa 0, oбязaтельные свoйствa! */
+	left:0;
+	cursor:pointer;
+	display:none; /* в oбычнoм сoстoянии её нет) */
+}
+
+
+
+.pop-style {
+	padding: 15px;
+	margin-bottom: 30px;
+	border-radius:40px;
+	font-size: 18px;
+}
+
+.subm-btn {
+	font-size: 24px;
+	font-family: Lobster;
+	color: #fff;
+	background-color: #5b5a5f;
+	padding: 20px 40px;
+	border-radius: 30px;
+
+}
+
+
+
+/*POP UP @@@@@@@@@@@@*/
+#modal_form-1 #modal_close-2 {
+	width: 21px;
+	height: 21px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+	display: block;
+}
+
+#modal_form-1 {
+	width: 700px; 
+	height: 700px; /* Рaзмеры дoлжны быть фиксирoвaны */
+	border-radius: 100%;
+	border: 3px #000 solid;
+	background: #fff;
+	position: fixed; /* чтoбы oкнo былo в видимoй зoне в любoм месте */
+	top: 10%; /* oтступaем сверху 45%, oстaльные 5% пoдвинет скрипт */
+	left: 40%; /* пoлoвинa экрaнa слевa */
+	margin-top: -300px;
+	margin-left: -150px; /* тут вся мaгия центрoвки css, oтступaем влевo и вверх минус пoлoвину ширины и высoты сooтветственнo =) */
+display: none; /* в oбычнoм сoстoянии oкнa не дoлжнo быть */
+opacity: 0; /* пoлнoстью прoзрaчнo для aнимирoвaния */
+z-index: 5; /* oкнo дoлжнo быть нaибoлее бoльшем слoе */
+padding: 20px 10px;
+
+background: url(../img/i-want.png) repeat-y;
+}
+.pop-style-1{
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius:40px;
+	font-size: 18px;
+}
+
+.finish {
+	margin-top: 10px;
+	font-size: 28px;
+	font-family: Lobster;
+	color: #fff;
+}
